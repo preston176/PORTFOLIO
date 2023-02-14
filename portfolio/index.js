@@ -1,0 +1,3 @@
+alleel(){
+    alert("Heyyyy")
+}
